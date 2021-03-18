@@ -1,0 +1,45 @@
+.newLink {
+  color: blue;
+}
+.newLink:hover {
+  font-weight: bold;
+}
+
+.tags > span {
+  cursor: pointer;
+  margin-right: 6px;
+}
+.tags > span:hover {
+  font-weight: bold;
+}
+
+.carousel img {
+  height: 100%;
+  width: 100%;
+}
+
+.h10 {
+  height: 10px;
+}
+
+.reading {
+  float: right;
+  padding-right: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.reading:hover {
+  color: grey;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.readArea {
+  height: 46px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=style.css.map */
